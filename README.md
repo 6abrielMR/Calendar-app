@@ -12,8 +12,11 @@ npm install --save
 
 ## Usage
 
-```python
+```bash
 # start project locally
+npm run dev
+
+# start project in production
 npm start
 ```
 
